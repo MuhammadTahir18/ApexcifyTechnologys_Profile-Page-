@@ -29,3 +29,5 @@ Material Design Widgets
 Purpose
 
 This project was created to practice building modern profile interfaces in Flutter.
+
+![App Screenshot](https://github.com/MuhammadTahir18/ApexcifyTechnologys_Profile-Page-/blob/caebdf782821c95dadd259e5c8ed63ada606c8a5/profile.png)
