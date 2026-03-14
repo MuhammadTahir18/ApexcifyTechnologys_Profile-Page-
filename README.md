@@ -1,16 +1,31 @@
-# apexcify_technologys
+## Flutter Profile Page UI
 
-A new Flutter project.
+A simple and clean Profile Page UI built using Flutter and Dart.
+This screen displays a user's profile image, name, email, and a short description in a modern card-style layout.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+Profile image with circular avatar
 
-A few resources to get you started if this is your first Flutter project:
+User name and role display
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Email information card
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Short bio/description section
+
+Floating action button for edit action
+
+Clean and responsive Material UI
+
+## Tech Stack
+
+Flutter
+
+Dart
+
+Material Design Widgets
+
+
+Purpose
+
+This project was created to practice building modern profile interfaces in Flutter.
